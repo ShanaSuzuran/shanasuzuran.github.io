@@ -1,0 +1,5 @@
+# go to your hexo theme folder
+cd themes
+
+# clone the project
+git clone https://github.com/zoeingwingkei/frame.git
