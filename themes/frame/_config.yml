@@ -29,9 +29,9 @@ date_format: MMM D, YYYY
 
 # profile
 profile:
-  title: Hi, this is Frame. 
-  body: A minimal, elegant hexo theme.
-  image: /profile_cover.png
+  title: ShanaFelicity
+  body: Live your precious inner life.
+  image: /zenos.png
 
   links:
     Home: /
