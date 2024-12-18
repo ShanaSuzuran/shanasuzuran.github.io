@@ -3,7 +3,7 @@
 language: en
 
 # header
-site_brand_name: Frame.
+site_brand_name: ShanaFelicity
 
 logo_image:
   enable: false
@@ -12,6 +12,7 @@ logo_image:
 menu:
   Home: /
   Archive: /archives/
+  Tag: /tag/
   Gallery: /categories/gallery/
 
 # stylesheets loaded in the <head>
@@ -40,15 +41,15 @@ profile:
 # footer
 footer:
   copyright_info:
-    enable: false
-    author:
+    enable: tue
+    author: ©Shana
 
   powered_by: # Powered by Hexo & Frame
     enable: true
 
   other_info:
-    enable: false
-    content:
+    enable: true
+    content: Love is an ever-fixed mark
 
 # color mode: default / classic / dark
 color_mode: default
