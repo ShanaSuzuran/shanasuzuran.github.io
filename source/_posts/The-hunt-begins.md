@@ -6,8 +6,8 @@ tags:
   - In-game Story
 ---
 
-* 《狩猎的开始》是《光之回忆录》中对芝诺斯过去的补充描写，特别感谢reddit论坛上的MrCombineSoldier的分享帖。如有侵权问题，请随时与我联系，我将及时删除。*
-* 《The Hunt Begins》 is an additional depiction of Zenos' past from 《Chronicles of Light》. Special thanks to MrCombineSoldier on the Reddit forum for sharing. If there are any copyright issues, please feel free to contact me, and I will promptly remove it.*
+* 《狩猎的开始》是《光之回忆录》中对芝诺斯过去的补充描写，特别感谢reddit论坛上的MrCombineSoldier的分享帖。如有侵权问题，请随时与我联系，我将及时删除。
+* 《The Hunt Begins》 is an additional depiction of Zenos' past from 《Chronicles of Light》. Special thanks to MrCombineSoldier on the Reddit forum for sharing. If there are any copyright issues, please feel free to contact me, and I will promptly remove it.
 
 
   One might think it a blessing to be born into the ruling family of a vast and powerful empire, but for the young Prince Zenos-great grandson of Solus zos Galvus, revered founding father of the Garlean Empire-it was a curse.
