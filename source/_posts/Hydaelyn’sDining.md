@@ -6,5 +6,5 @@ tags:
   - BJD
 categories:
   - [gallery]
-featured_image: /img/240924.png
+featured_image: /img/240924.jpg
 ---
