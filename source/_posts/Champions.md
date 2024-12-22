@@ -6,5 +6,5 @@ tags:
   - GPOSE
 categories:
   - [gallery]
-featured_image: /img/230313.jpg
+featured_image: /img/240313.jpg
 ---
