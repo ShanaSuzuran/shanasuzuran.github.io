@@ -7,5 +7,6 @@ tags:
 categories:
   - [gallery]
 featured_image: /img/241028.jpg
+---
 
 The Old Friend in the Tavern
