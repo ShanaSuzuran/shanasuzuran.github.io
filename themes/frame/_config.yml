@@ -15,6 +15,7 @@ menu:
   Tag: /tag/
   Gallery: /categories/gallery/
   About: /about/
+  Search: /search/
 
 # stylesheets loaded in the <head>
 stylesheets:
@@ -76,7 +77,7 @@ disqus: # disqus setup guide: https://help.disqus.com/en/articles/1717056-publis
 
 # local search
 local_search:
-  enable: false
+  enable: true
   place_holder: Search Anything
   trigger: auto # auto: trigger search whenever input changes
   top_n_per_article: 1 # show top n results per article, show all results by setting to -1
