@@ -6,5 +6,5 @@ tags:
   - Painting
 categories:
   - [gallery]
-featured_image: /img/240324.jpg
+featured_image: /img/240324.png
 ---
