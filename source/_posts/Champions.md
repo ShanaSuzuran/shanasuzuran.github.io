@@ -1,10 +1,10 @@
 ---
 title: Champions
-date: 2024-12-22 13:47:14
+date: 2024-03-13
 tags:
   - Zenos
   - GPOSE
 categories:
   - [gallery]
-featured_image: /img/230807.jpg
+featured_image: /img/230313.jpg
 ---
