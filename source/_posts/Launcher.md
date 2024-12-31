@@ -3,7 +3,7 @@ title: Launcher
 date: 2024-09-26
 tags:
   - Zenos
-  - Others
+  - Fanmade
 categories:
   - [gallery]
 featured_image: /img/240926.png
