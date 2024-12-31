@@ -1,5 +1,5 @@
 ---
-title: NewYearsEve
+title: 24NewYearsEve
 date: 2024-12-31
 tags:
   - Zenos
