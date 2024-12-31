@@ -3,7 +3,7 @@ title: DeskPet
 date: 2024-06-25
 tags:
   - Zenos
-  - Painting
+  - Fanmade
 categories:
   - [gallery]
 featured_image: /img/240625.png
