@@ -8,3 +8,5 @@ categories:
   - [gallery]
 featured_image: /img/250114.png
 ---
+
+"Teach me,dear creature"
