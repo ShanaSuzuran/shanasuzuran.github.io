@@ -1,14 +1,12 @@
 ---
 title: MRE Cans
-date: 2024-11-28
+date: 2025-01-14
 tags:
   - Zenos
   - Fanmade
 categories:
   - [gallery]
-featured_image: /img/241128.png
+featured_image: /img/250114.jpg
 ---
 
-Just a draft,in progress
 
-只是草稿，打样中
